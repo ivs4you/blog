@@ -7,10 +7,10 @@ Also here Froala WYSIWYG editor is used.
 New features:
 1. Registration of new user
 2. Creating a new post
-3. Editing of post
-4. Deleting of post
-5. Creating of new comment for post
-6. Deleting of comment
+3. Editing of a post
+4. Deleting of a post
+5. Creating of a new comment for post
+6. Deleting of a comment
 7. Separating of rights for work between users
 
 Installation:
